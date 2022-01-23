@@ -21,4 +21,4 @@ def ret_time():
 
 if st.sidebar.checkbox('Run Function'):
     st.write(ret_time())
-#can induce parameters and argc
+#can induce parameters and args
