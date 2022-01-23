@@ -48,7 +48,7 @@ countrydf = pd.DataFrame(countrydata)
 #st.dataframe(countrydf)
 st.map(countrydf)
 
-#pdkdf = 
+#pdkdf
 # st.pydeck_chart(pdk.Deck(
 #     map_style='mapbox://styles/mapbox/light-v9',
 #      initial_view_state=pdk.ViewState(
